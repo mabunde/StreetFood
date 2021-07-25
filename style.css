@@ -1,5 +1,8 @@
 nav {
     display: flex;
-    background-color: white;
     justify-content: space-around;
+}
+.content {
+    background-color: #d0b8da;
+
 }
