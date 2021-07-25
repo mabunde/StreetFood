@@ -17,6 +17,12 @@ background-color: white;
 }
 .content-3 {
     background-color: #C9ECB5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.hotdeals {
+    float: left;
 }
 .content-4 {
     background-color: #FFD77C;
