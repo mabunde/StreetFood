@@ -11,6 +11,9 @@ nav {
 } 
 .column{
 background-color: white;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
 }
 .menu {
     background-color: #d0b8da;
