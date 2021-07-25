@@ -3,3 +3,12 @@
     flex-direction: column;
     justify-content: space-around;
 }
+.section>h1 {
+    color: #6CB840;
+}
+#street {
+    color: #EAAB1B;
+}
+*{
+    font-family: Poppins;
+}
