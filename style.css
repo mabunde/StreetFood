@@ -1,7 +1,44 @@
 nav {
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
+   
 }
+
+.first>ul>li {
+    display: inline-block;
+}
+.third>ul>li {
+    display: inline-block;
+}
+
+.first>ul>li>a {
+    padding: 18px;
+    margin-right: 0;
+    text-decoration: none;
+    display: block;
+    color: black;
+    }
+.third>ul>li>a {
+        padding: 18px;
+        margin-right: 0;
+        text-decoration: none;
+        display: block;
+        color: black;
+    }
+.first>ul>li>a:hover{
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6); 
+    background: rgba(221, 109, 35, 0.678);
+    color: rgba(0, 35, 122, 0.7);
+
+}
+.third>ul>li>a:hover{
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6); 
+    background: rgba(221, 109, 35, 0.678);
+    color: rgba(0, 35, 122, 0.7);
+
+}
+
 .content {
     background-color: #d0b8da;
 
