@@ -9,3 +9,12 @@ nav {
 .content-2 {
     display: flex;
 } 
+.column{
+background-color: white;
+}
+.menu {
+    background-color: #d0b8da;
+}
+.content-3 {
+    background-color: #C9ECB5;
+}
