@@ -16,13 +16,33 @@
     text-align: center;
 }
 .button {
-    background-color: #6CB840;
+    background: #6CB840;
     color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }
 .button-2 {
-    background-color: #6CB840;
+    background: #6CB840;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }
 .menu-1 {
     display: flex;
     flex-direction: row;
+}
+#image-1 {
+
 }
