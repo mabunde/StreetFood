@@ -41,7 +41,7 @@ nav {
 
 .content {
     background-color: #d0b8da;
-
+height: 100%;
 }
 .content-2 {
     display: flex;
